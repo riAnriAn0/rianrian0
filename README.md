@@ -1,20 +1,3 @@
-# Hi 👋, I'm riAn riAn
-
-### Experiência com C/C++ e Python
-
-
-- 🔭 I'm currently working on **Nenhum projeto**
-
-- 🌱 I'm currently learning **Backend (foco em PostgreSQL) e Analise de dados**
-
-- 👯 I'm looking to collaborate on **Nenhum projeto**
-
-- 🤝 I'm looking for help with **muita coisa**
-
-- 💬 Ask me about **muita coisa**
-
-- 📫 How to reach me **ml2463265@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/riAnriAn0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="riAnriAn0" height="30" width="40" /></a>
